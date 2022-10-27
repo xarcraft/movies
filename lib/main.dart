@@ -3,6 +3,10 @@ import 'package:movies/providers/movies_provider.dart';
 import 'package:movies/screens/screens.dart';
 import 'package:provider/provider.dart';
 
+/*
+* proyecto basico de peliculas del curso guia completa
+* de desarrollo para IOS y Android de Fernando herrera
+*/
 void main() => runApp(const AppState());
 
 class AppState extends StatelessWidget {
